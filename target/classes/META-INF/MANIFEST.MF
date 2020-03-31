@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-kafka-consumer-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Syam
+Implementation-Vendor-Id: com.techprimers.kafka
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ kafka-consumer-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
